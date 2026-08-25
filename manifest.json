@@ -1,0 +1,11 @@
+{
+  "name": "Greenline Bank",
+  "short_name": "Greenline",
+  "description": "Interactive prototype of the Greenline Bank mobile app — Home, Move Money, Account, Transactions, Pay Anyone, and Cash Map screens.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#eef4f0",
+  "theme_color": "#189256",
+  "orientation": "portrait",
+  "icons": []
+}
